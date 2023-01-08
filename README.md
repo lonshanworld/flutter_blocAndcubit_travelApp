@@ -1,16 +1,16 @@
 # travel_app_bloc_and_cubit
 
-A new Flutter project.
+## Main Features
+  1. Firebase RealtimeDatabase
+  2. Flutter Chart Bar
+  3. Flutter Bloc
+  4. Flutter Cubit
+  5. Search Function
+  
 
-## Getting Started
+## Check these videos for details
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/110902058/211213238-0e671ab1-332a-411c-84a8-b17274a5a0e7.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
